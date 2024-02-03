@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px; 
+    /* color: white; */
+}
+
+/* h1 { */
+    /* height: 100px;
+    width: 200px;
+    background-color: pink; */
+    /* border-width: 4px;
+    border-style: double; 
+    border-color: green; */
+    /* text-align:center;
+    border: 4px double green;
+    border-radius: 20px; */
+    /* padding-left: 100px; */
+    /* padding: 50px;
+    margin-right: 100%;  */
+/* }  */
+
+#navbar {
+    /* height: 100px;
+    width: 200px;
+    background-color: aqua; */
+    /* border-width: 7px;
+    border-style: solid; 
+    border-color: purple; */
+    /* text-align:center;
+    border: 6px solid purple;
+    border-radius: 30px;
+    padding: 1px 3px 5px 7px;
+    margin: 50px; */
+
+    /* Practice set 3 */
+    /* height: 100px;
+    width: 100px;
+    background-color: purple;
+    border-radius: 50%; */
+
+    height: 60px;
+    background-color: #0f1111;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#logo {
+    font-size: 25px;
+    color: #f08804;
+}
+
+#button {
+    background-color: #f08804;
+}
+
+div {
+    /* background-color: aqua;
+    display: inline; */
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 102);
+} 
+
+/* header {
+    background-color: aqua;
+} */
+ 
+/* footer {
+    background-color: rgb(145, 255, 0);
+} */
+
+/* button {
+    display: block;
+}  */
+
+/* div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+} */
+
+/* #box2 {
+    display: none; 
+    /* visibility: hidden; */
+/* } */
+
+/* #box1 {
+    background-color: rgba(255,0, 0, 0.4);
+}
+
+#box2 {
+    background-color: rgba(255,0, 0, 0.6);
+}
+
+#box3 {
+    background-color: rgba(255,0, 0, 0.8);
+} */
+
+

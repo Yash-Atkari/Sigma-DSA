@@ -1,0 +1,48 @@
+/* #box1 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(251, 255, 127);
+    font-size: 10px;
+} */
+
+/* #box2 {
+    height: 10vh;
+    width: 50%;
+    background-color: aqua;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5rem;
+
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1 {
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+}
+#box2 {
+    position: relative; 
+    left: -80px;
+    z-index: 1;
+}
+#box3 {
+    position: absolute;
+    left: 50px;
+    /* z-index: -1; */
+}
+#box4 {
+    position: fixed;
+    right: 510px;
+}
+body {
+    background-image: url("beauty_of_nature.jpg");
+    background-size: cover;
+
+}
