@@ -1,0 +1,9 @@
+#heading {
+    color: lightcoral;
+    text-decoration: underline;
+    background-color: aqua;
+}
+
+.content {
+    background-color: rgb(208, 147, 73);
+}
